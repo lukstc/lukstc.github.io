@@ -1,4 +1,4 @@
-#Xukun(Frank) LIU
+# Xukun(Frank) LIU
 
 My personal websites
-Keep track of my activities and info
+Keep track of my projects and info
